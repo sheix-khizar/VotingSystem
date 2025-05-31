@@ -80,7 +80,7 @@ voting-system/
 
 ## 📷 Screenshots
 
-*(Add screenshots of UI here if available)*
+votingSystemPreview.png
 
 ---
 
