@@ -80,7 +80,7 @@ voting-system/
 
 ## 📷 Screenshots
 
-votingSystemPreview.png
+![Voting System Preview](./votingSystemPreview.png)
 
 ---
 
